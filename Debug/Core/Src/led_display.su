@@ -1,0 +1,6 @@
+led_display.c:62:13:writeGroup	24	static
+led_display.c:72:13:allDigitsOff	8	static
+led_display.c:77:13:allTrafficLedsOff	8	static
+led_display.c:84:13:showEditModeLeds	16	static
+led_display.c:96:13:setSegments	24	static
+led_display.c:109:6:led_display_task	24	static
